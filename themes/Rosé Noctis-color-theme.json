@@ -359,7 +359,7 @@
 		"sideBarSectionHeader.background": "#0000",
 		"sideBarSectionHeader.border": "#6e6a8633",
 		"statusBar.background": "#191724",
-		"statusBar.debuggingBackground": "#c4a7e7",
+		"statusBar.debuggingBackground": "#ebbcba",
 		"statusBar.debuggingForeground": "#191724",
 		"statusBar.foreground": "#908caa",
 		"statusBar.noFolderBackground": "#191724",
@@ -672,7 +672,6 @@
 			],
 			"settings": {
 				"foreground": "#fab387",
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -860,7 +859,7 @@
 				"source.tf entity.name"
 			],
 			"settings": {
-				"foreground": "#f6c177"
+				"foreground": "#49e9a6"
 			}
 		},
 		{
@@ -880,7 +879,7 @@
 				"text.tex markup.raw"
 			],
 			"settings": {
-				"foreground": "#f6c177"
+				"foreground": "#49e9a6"
 			}
 		},
 		{
