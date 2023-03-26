@@ -1,0 +1,27 @@
+{
+  "name": "rose-noctis",
+  "displayName": "Rosé Noctis",
+  "publisher": "iKenshu",
+  "description": "A merge theme between Rosé Pine and Catppuccin Noctis",
+  "repository": {
+    "type": "git",
+		"url": "https://github.com/iKenshu/ros--noctis"
+	},
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rosé Noctis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rosé Noctis-color-theme.json"
+      }
+    ]
+  }
+}
