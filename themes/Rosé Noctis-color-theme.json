@@ -596,7 +596,7 @@
 				"keyword.control.def.ruby"
 			],
 			"settings": {
-				"foreground": "#cba6f7"
+				"foreground": "#ea76cb"
 			}
 		},
 		{
@@ -859,7 +859,7 @@
 				"source.tf entity.name"
 			],
 			"settings": {
-				"foreground": "#49e9a6"
+				"foreground": "#f6c177"
 			}
 		},
 		{
@@ -879,7 +879,7 @@
 				"text.tex markup.raw"
 			],
 			"settings": {
-				"foreground": "#49e9a6"
+				"foreground": "#f6c177"
 			}
 		},
 		{
