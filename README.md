@@ -1,5 +1,7 @@
 # ros--noctis README
 
+![Visual image of the python syntax](https://imgur.com/Zixgi1p)
+
 This is a project for fun in trying to build a fun theme that I love. Really like the colors of boths theme and syntax.
 
 ## WIP
