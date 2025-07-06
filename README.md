@@ -1,4 +1,4 @@
-# ros--noctis README
+# Rosé Noctis README
 
 ![Visual image of the python syntax](https://i.imgur.com/ptmo3rZ.png)
 
